@@ -1,1 +1,21 @@
 jonhnigv.ngm ,nknbkvb
+usr add ansadmin,passwd ansadmin
+nano /etc/ssh/sshd_config
+visudo
+service ssh reload
+indocker
+usr add ansadmin,passwd ansadmin
+same steps
+
+in ans
+sudo service docker start
+su - ansadmin
+ssh-keygen
+cd .ssh/
+ls
+ssh-copy-id private ip docker
+su nano /etc/ansible/hosts
+
+in hello_world.yml
+
+
